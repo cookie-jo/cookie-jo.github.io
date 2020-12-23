@@ -4,7 +4,8 @@ title:  "20201222일기장"
 date:   2020-12-22 22:58:00 
 categories: #SI#배운것
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+전자정부프레임워크는 처음 써보는데 국비학원에서 배운거랑 실무랑은 완전 다르다. 
+
 
 ```javascript
 const Razorpay = require('razorpay');
@@ -20,6 +21,10 @@ rzp.capture(payment_id, cost)
 		return 2;
 	})
 ```
+Controller 만들면 이런 구조로 된다..
+
+![KakaoTalk_20201223_171230778](https://user-images.githubusercontent.com/67885590/103006760-a532eb80-4575-11eb-9ffe-9f13dbe6f7e1.png)
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
